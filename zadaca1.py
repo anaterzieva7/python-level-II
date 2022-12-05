@@ -14,3 +14,4 @@ headers = {
 
 response1 = requests.get(url=url_endpoint1, headers=headers)
 print(response1.status_code)
+# print("Komentar")
